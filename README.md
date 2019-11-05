@@ -3,6 +3,7 @@ Vue.js _MegaBox
 
 src   
 ├── App.vue
+
 ├── assets
 |   ├── css
 |   |   └── main.css
