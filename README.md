@@ -2,12 +2,12 @@
 Vue.js _MegaBox
 
 src   
-├── App.vue
-├── assets
-|   ├── css
-|   |   └── main.css
-|   ├── font 
-|   └── img 
+├── App.vue 
+├── assets 
+|   ├── css 
+|   |   └── main.css 
+|   ├── font  
+|   └── img  
 ├── commons
 |   ├── directives 
 |   ├── functions 
