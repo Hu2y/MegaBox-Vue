@@ -1,6 +1,6 @@
 # MegaBox-Vue
 Vue.js _MegaBox
-
+```
 src   
 ├── App.vue.
 ├── assets
@@ -35,3 +35,4 @@ src
 |   ├── modules 
 |   └── store.js 
 └── main.js
+```
