@@ -17,7 +17,7 @@
           </ul>
           <ul>
             <li class="white"><a href="">상영시간표</a></li>
-            <li class="purple"><a href="">빠른예매<img src="assets/img/test.png" alt=""></a></li><!-- 이미지 추가햇음 -->
+            <li class="purple"><a href="">빠른예매<img src="../../assets/img/test.png" alt=""></a></li><!-- 이미지 추가햇음 -->
           </ul>
         </div>
       </div>
