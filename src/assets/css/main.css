@@ -56,6 +56,18 @@
 .banner_menu .bm_right li.purple a img {width: 30px; right: 20px; position: absolute;;}
 .banner_menu li.line:after {content: ''; width: 1px; height: 14px; background: #ffffff; position: absolute; right: -18px; top: 2px;}
 
+/* slider */
+.slider {width: 100%; height: 600px;}
+.slider .ss1 { background: url(../img/swiper01.jpg) no-repeat center center; background-size: cover;}
+.slider .ss2 { background: url(../img/main_slider01_2000.jpg) no-repeat center center; background-size: cover;}
+.slider .ss3 { background: url(../img/main_slider02_2000.jpg) no-repeat center center; background-size: cover;}
+.slider .ss4 { background: url(../img/main_slider03_2000.jpg) no-repeat center center; background-size: cover;}
+.slider .swiper-slide h2 {position: relative; display: inline-block; font-size: 55px; color: #fff; margin-top: 200px; line-height: 70px;}
+.slider .swiper-slide h2::after {content: ''; width: 100%;height: 1px; background: rgba(255,255,255,0.3); position: absolute; left: 0; bottom: -30px;}
+.slider .swiper-slide h2 em {display: block; font-size: 52px; font-weight: 100;}
+.slider .swiper-slide p {font-size: 30px; color: #fff; padding-top: 45px;}
+
+
 /* media query */
 @media(max-width: 1290px) {
   .container{width: 100%;}
