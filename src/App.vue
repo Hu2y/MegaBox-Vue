@@ -1,21 +1,22 @@
 <template>
   <body id="app">
-    <web-header></web-header>
+    <!-- <web-header></web-header> -->
     <web-content></web-content>
-    <web-footer></web-footer>
+    <!-- <web-footer></web-footer> -->
   </body>
 </template>
 
 <script>
-import WebHeader from './components/WebHeader'
+/* eslint-disable */
+// import WebHeader from './components/WebHeader'
 import WebContent from './components/WebContent'
-import WebFooter from './components/WebFooter'
+// import WebFooter from './components/WebFooter'
 
 export default {
   components: {
-    WebHeader,
+    // WebHeader,
     WebContent,
-    WebFooter
+    // WebFooter
   }
 }
 </script>
